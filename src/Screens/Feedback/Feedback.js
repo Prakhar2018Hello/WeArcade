@@ -30,7 +30,7 @@ const Feedback = () => {
           resultArray.push({ id: item.id, ...item.data() });
         })
         setOrderDetail(resultArray);
-        setStars([])
+
       })
     } catch (error) {
       console.log(error)
@@ -91,6 +91,7 @@ const Feedback = () => {
 
   }
   const setArrayStars = () => {
+    setStars([])
     let i = 0;
     for (i = 0; i < ReviewStars; i++) {
       Stars.push("stars")
