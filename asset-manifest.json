@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeArcade/static/css/main.ebadc361.css",
+    "main.js": "/WeArcade/static/js/main.e65b6a9a.js",
+    "static/js/787.182c5a26.chunk.js": "/WeArcade/static/js/787.182c5a26.chunk.js",
+    "index.html": "/WeArcade/index.html",
+    "main.ebadc361.css.map": "/WeArcade/static/css/main.ebadc361.css.map",
+    "main.e65b6a9a.js.map": "/WeArcade/static/js/main.e65b6a9a.js.map",
+    "787.182c5a26.chunk.js.map": "/WeArcade/static/js/787.182c5a26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebadc361.css",
+    "static/js/main.e65b6a9a.js"
+  ]
+}
